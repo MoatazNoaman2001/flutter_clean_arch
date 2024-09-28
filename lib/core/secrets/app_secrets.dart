@@ -1,0 +1,4 @@
+class AppSecrets{
+  static const supabaseUrl = "https://fxssdlxdillaplvczski.supabase.co";
+  static const supabaseAnonKey= "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ4c3NkbHhkaWxsYXBsdmN6c2tpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTA1NjAxNTcsImV4cCI6MjAyNjEzNjE1N30.cqWw_taZK9hkc3lf24deHLN2ohNZJnd4N65XZ5DqxYc";
+}
